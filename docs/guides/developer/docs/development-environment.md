@@ -88,6 +88,11 @@ Albeit you can use the afforemented method for package installations, you can't 
 The recommended way is to enable the debug mode in the `setenv` file, normally found in:
 
     /usr/share/opencast/bin/
+    
+When using Docker:
+
+    /opencast/bin/
+    
 
 And add this line:
 
